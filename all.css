@@ -1,0 +1,65 @@
+@\import "https://valeriolyndon.github.io/MAL-Public-List-Designs/Clarity%20Theme/Theme%20-%20Compressed.css";
+
+@\import "https://valeriolyndon.github.io/MAL-Public-List-Designs/Clarity%20Theme/Mod%20-%20Dark%20Mode%20Compressed.css";
+
+/*POP-UP Images on image hover*/
+@\import "https://malscraper.azurewebsites.net/covers/anime/YOURUSERNAME/presets/dataimagelinkbefore";
+@\import "https://valeriolyndon.github.io/MAL-Public-List-Designs/Clarity%20Theme/Mod%20-%20Hover%20Image%20On%20Circle%20Compressed.css";
+
+/*tmigas' custom changes*/
+@\import "https://tmigas.github.io/MAL_CSS/tmigas_MAL.css"
+
+body { --name: "\a  YOURUSERNAME"; }
+
+/*-S-T-A-R-T--------------------*\
+|           AVATAR               |
+\*------------------------------*/
+[data-query*="status\":7"] { --avatar: url(https://i.imgur.com/4Q7ysz2.jpg); }
+/* Watching */
+[data-query*="status\":1"] { --avatar: url(https://i.imgur.com/3J3MRXx.jpg); }
+/* Completed */
+[data-query*="status\":2"] { --avatar: url(https://i.imgur.com/XRXXJZZ.jpg); }
+/* Onhold */
+[data-query*="status\":3"] { --avatar: url(https://i.imgur.com/q50LI1m.jpg); }
+/* Dropped */
+[data-query*="status\":4"] { --avatar: url(https://i.imgur.com/IEsN0YW.png?1); }
+/* Planned */
+[data-query*="status\":6"] { --avatar: url(https://i.imgur.com/1GGiI8S.jpg); }
+/*------------------------E-N-D-*/
+
+/*-S-T-A-R-T--------------------*\
+| Per-Category Banner Image      |
+\*------------------------------*/
+/* All Anime */
+[data-query*='status":7'] { --banner: url(https://i.imgur.com/CTEpYHY.jpg?1); }
+/* Watching/Reading */
+[data-query*='status":1'] { --banner: url(https://i.imgur.com/Dov2K7M.png); }
+/* Completed */
+[data-query*='status":2'] { --banner: url(https://i.imgur.com/RjeIKgo.jpg?2); }
+/* Onhold */
+[data-query*='status":3'] { --banner: url(https://i.imgur.com/uRhi0A7.png); }
+/* Dropped */
+[data-query*='status":4'] { --banner: url(https://i.imgur.com/wrXPUGj.png?1); }
+/* Planned */
+[data-query*='status":6'] { --banner: url(https://i.imgur.com/1gEM4lX.jpg?1); }
+/*------------------------E-N-D-*/
+
+/*-S-T-A-R-T--------------------*\
+| Per-Category Character Image   |
+\*------------------------------*/
+/* All Anime */
+[data-query*='status":7'] { --character: url(https://i.imgur.com/JG3cHc5.png); }
+/* Watching/Reading */
+[data-query*='status":1'] { --character: none; }
+/* Completed */
+[data-query*='status":2'] { --character: url(https://i.imgur.com/U6zIYcT.png); }
+/* Onhold */
+[data-query*='status":3'] { --character: none; }
+/* Dropped */
+[data-query*='status":4'] { --character: none; }
+/* Planned */
+[data-query*='status":6'] { --character: url(https://i.imgur.com/BYYJO0l.png); }
+/*------------------------E-N-D-*/
+
+/*If you use some kind of Dark Mode uncomment this*/
+/*body[data-owner="1"] #fancybox-frame { filter: none; }*/
