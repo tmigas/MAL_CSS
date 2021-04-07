@@ -44,7 +44,7 @@ body { --character: none; }
 ```
 Here there are 3 things to keep in mind. 
 1. First you need to change YOURUSERNAME to your MAL user name in the middle of the first import of the POP-UP images area 
-2. Then also change the __body { --name: "\a  YOURUSERNAME"; }__ line of code, on this one if you want you can play around with the spaces and even use "\a" to change lines as long as keep yourself between the "".
+2. Then also change the __body { --name: "\a  YOURUSERNAME"; }__ line of code, on this one if you want you can play around with the spaces and even use "\a" to change lines as long as you keep yourself between the "".
 3. Lastly in the line after the previous you want to change URLHERE to your MAL's avatar (if that's the image you choose to use), for help with this you can follow these steps:
    1. Go to your profile.
    2. Right click your profile image and select "copy image address" (or similar, it may be worded differently in your browser!). The dialogue looks like this (left image: Chrome, right image: Firefox).
