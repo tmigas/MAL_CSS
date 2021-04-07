@@ -52,7 +52,7 @@ Here there are 3 things to keep in mind.
 
 ![profile_picture](/images/profile_picture.png)
 
-### 5. With this you just need to click SAVE and you're all done with the basic. If you want you can close this guide, but if you want to costumize your images I'll teach you how next but keep in kind that unless specified all the code goes in the bottom.
+### 5. With this you just need to click SAVE and you're all done with the basic. If you want you can close this guide, but if you want to costumize your images I'll teach you how in the next step, but keep in mind that unless specified all the extra code goes in the bottom.
 
 ### 6. There are 3 main things you can costumize: The Avatar, The Banner, or add a character over the right side of the Banner.
 First, the Avatar, since we already set your avatar the only thing left to costumize would be if you wanted to change it deppending on which page you are, if you do, you want to replace this:
