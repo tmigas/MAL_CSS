@@ -100,7 +100,7 @@ but if like before you want it to be differente deppending on which page you are
 [data-query*='status":6'] { --banner: url(URLHERE); }
 /*------------------------E-N-D-*/
 ```
-Lastly, if you want to add a character over the banner you want to replace the following:
+Lastly, if you want to add a character over the banner (More on where to get them in next point) you want to replace the following:
 ```css
 body { --character: none; }
 ```
@@ -138,8 +138,9 @@ body[data-owner="1"] #fancybox-frame { filter: none; }
 ```
 
 ### 8. Save!!     ...and done, you're good to go... almost, first you need to know which tags have special appearences right :)?.
-[List of tags](https://docs.google.com/spreadsheets/d/18JZI3sOT2gPteI5RmJQO46VVKMbtHdq0zc3qsDwHU-E/edit?usp=sharing)
+Here's the [list of tags](https://docs.google.com/spreadsheets/d/18JZI3sOT2gPteI5RmJQO46VVKMbtHdq0zc3qsDwHU-E/edit?usp=sharing)
 
+but also, if you want to know where you can find character renders, you can use any image with a transparent background, a place to find anime related ones is [Danbooru](https://danbooru.donmai.us/posts?utf8=%E2%9C%93&tags=transparent_background+&ms=1), you can combine the tag *transparent_background* with a character or series in the search bar, keep in mind that it uses the Japanese names as tags with underscores as spaces, so the autocomplete is your friend there.
 
 ### 9. If you have questions, need help or want to suggest something here are a few ways of reaching me:
 * [twitter](https://twitter.com/tmigaskino)
