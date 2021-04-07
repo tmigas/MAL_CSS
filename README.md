@@ -127,7 +127,7 @@ or with this if you want one different for every page
 [data-query*='status":6'] { --character: url(URLHERE); }
 /*------------------------E-N-D-*/
 ```
-### 7. There's also a small teak you might find usefull if you use some kind of dark mode from the browser or an extension:
+### 7. There's also a small tweak you might find usefull if you use some kind of dark mode from the browser or an extension:
 First let's check if you need it, click on preview or save, then click the quick add or try to edit an anime, if the window appears white like on the left you will need to add an extra line
 
 ![dark_mode](/images/dark_mode.png)
