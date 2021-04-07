@@ -1,4 +1,4 @@
-# MAL_CSS
+# tmigas' take on MAL List CSS
 These are my css changes to MAL to be able to share with friends and keep them updated!
 
 I made my changes based on the design from [Valerio_Lydon](https://myanimelist.net/forum/?topicid=1723114), so most of the source code and the installation instructions are actually from his own guide. 
