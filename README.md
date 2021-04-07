@@ -137,7 +137,7 @@ if you need it, here's the line you should add at the bottom:
 body[data-owner="1"] #fancybox-frame { filter: none; }
 ```
 
-### 8. Save!!     ...and done, you're good to go... almost, first you need to know which tags have special appearences right :)?.
+### 8. Save!!     ...and done, you're good to go... almost, first you need to know which tags have special appearences right :)?
 Here's the [list of tags](https://docs.google.com/spreadsheets/d/18JZI3sOT2gPteI5RmJQO46VVKMbtHdq0zc3qsDwHU-E/edit?usp=sharing)
 
 but also, if you want to know where you can find character renders, you can use any image with a transparent background, a place to find anime related ones is [Danbooru](https://danbooru.donmai.us/posts?utf8=%E2%9C%93&tags=transparent_background+&ms=1), you can combine the tag *transparent_background* with a character or series in the search bar, keep in mind that it uses the Japanese names as tags with underscores as spaces, so the autocomplete is your friend there.
