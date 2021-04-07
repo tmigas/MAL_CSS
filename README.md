@@ -114,17 +114,17 @@ or with this if you want one different for every page
 | Per-Category Character Image   |
 \*------------------------------*/
 /* All Anime */
-[data-query*='status":7'] { --character: url(https://i.imgur.com/JG3cHc5.png); }
+[data-query*='status":7'] { --character: url(URLHERE); }
 /* Watching/Reading */
-[data-query*='status":1'] { --character: none; }
+[data-query*='status":1'] { --character: url(URLHERE); }
 /* Completed */
-[data-query*='status":2'] { --character: url(https://i.imgur.com/U6zIYcT.png); }
+[data-query*='status":2'] { --character: url(URLHERE); }
 /* Onhold */
-[data-query*='status":3'] { --character: none; }
+[data-query*='status":3'] { --character: url(URLHERE); }
 /* Dropped */
-[data-query*='status":4'] { --character: none; }
+[data-query*='status":4'] { --character: url(URLHERE); }
 /* Planned */
-[data-query*='status":6'] { --character: url(https://i.imgur.com/BYYJO0l.png); }
+[data-query*='status":6'] { --character: url(URLHERE); }
 /*------------------------E-N-D-*/
 ```
 ### 7. There's also a small teak you might find usefull if you use some kind of dark mode from the browser or an extension:
